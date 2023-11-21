@@ -31,7 +31,7 @@ int main(){
             }
             break;
             case 2:
-            	printf("Cac phan tu trong quan ly la: ");
+            	printf("Cac phan tu trong mang la: ");
             for (j = 0; j < n; j++)
             {
                 printf("%d ", arr[j]);
